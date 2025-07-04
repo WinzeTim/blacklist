@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/blacklistedids", "dest": "/api/blacklist.js" }
+  ]
+}
